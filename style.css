@@ -1,0 +1,151 @@
+.layout{
+    border: 2px solid;
+    margin: 300px;
+    background-color:darkturquoise;
+    /* margin: 20px auto; */
+    padding: 30px;
+    height: 1000px;
+}
+.layout .box-1{ 
+    /* text-transform: uppercase; */
+   margin-bottom: 25px;
+   font-size: 20px; 
+}
+input{
+    margin-left: 250px;
+    display: flex;
+
+
+}
+.gen-1{
+    margin-left: 50px;
+}
+.gender{
+margin-left: 202px;
+margin-top: 18px;
+}
+textarea{
+    margin-left: 193px;
+    margin-top: 10px;
+}
+span{
+    padding-left: 430px;
+}
+select{
+    margin-left: 216px;
+    margin-top: 10px;
+}
+.country{
+    margin-top: 30px;
+}
+label .man1{
+    padding-left: 30px;
+}
+#gen1 .gen2{ 
+    padding-left: 10px;
+    margin-left: 10px;
+}
+#sing{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 196px;
+    
+}
+#dance{
+    display: inline-block;
+    margin: 15px;
+}
+#draw{
+    display: inline-block;
+    margin: 15px;
+}
+#sketch{
+    display: inline-block;
+    margin: 15px;
+}
+#other{
+    display: inline-block;
+    margin: 15px;
+    margin-left: 303px;
+}
+#switch{
+    margin-left: 380px;
+    margin-top: -30px;
+}
+#man{
+    padding-left: 560px;
+}
+#high{
+    display: inline-block;
+    margin-left: 164px;
+}
+#higher{
+    display: inline-block;
+    margin: 20px;
+}
+#gratuate{
+    display: inline-block;
+    
+}
+#pre{
+    display: inline-block;
+    margin: 15px;
+}
+#phd{
+    display: inline-block;
+    margin: 15px;
+}
+#bca{
+    display: inline-block;
+    margin-left: 129px;
+}
+#bsc{
+    display: inline-block;
+    margin: 15px;
+}
+#bcom{
+    display: inline-block;
+    margin: 15px;
+}
+#bcom{
+    display: inline-block;
+    margin: 15px;
+}
+#ba{
+    display: inline-block;
+    margin: 15px;
+}
+#mca{
+    display: inline-block;
+    margin: 15px;
+}
+#msc{
+    display: inline-block;
+    margin: 10px;
+}
+#ma{
+    display: inline-block;
+    margin: 15px;
+}
+#submit{
+display: inline-block;
+margin-top: 40px;
+margin-left: 339px;
+}
+#reset{
+    display: inline-block;
+    margin-left: 9px;
+    margin-top: -22px;
+}
+#country{
+    margin-left: 197px;
+}
+#city{
+    margin-top: 5px;
+}
+label{
+    padding-top: 10px;
+}
+h1{
+    text-align: center;
+}
